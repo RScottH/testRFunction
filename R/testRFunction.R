@@ -4,10 +4,8 @@
 #
 
 writeHW <- function(){
-writeLines("Hello World")
+writeLines("Hello World2")
 return()
 }
-
-
 
 
